@@ -2,4 +2,4 @@
 
 # Projetos_Aprendizagem
 
-Com estas ferramentas Intelil IDEA e Eclipe juntamente com o framework Junit tenho feito testes de carga, estresse e funcionais os quais ainda estou aprendendo, porém venho me dedicando cada vez mais para aprender.
+Com estas ferramentas Intelij IDEA e Eclipe juntamente com o framework Junit tenho feito testes de carga, estresse e funcionais os quais ainda estou aprendendo, porém venho me dedicando cada vez mais para aprender.
