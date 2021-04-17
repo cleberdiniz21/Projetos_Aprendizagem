@@ -3,4 +3,6 @@
 
 # Projetos_Aprendizagem
 
-Com estas ferramentas IntelliJ IDEA, Eclipse, Junit e Jmeter tenho feito testes de carga, estresse e funcionais os quais ainda estou aprendendo, porém venho me dedicando cada vez mais para me aprofundar nos níveis de testes, sejam eles de caixa branca ou preta.
+Com estas ferramentas IntelliJ IDEA, Eclipse, Jmeter e framework Junit tenho feito testes de unidade, carga, stress, performance e funcionais os quais ainda estou aprendendo, porém venho me dedicando cada vez mais para me aprofundar nos níveis de testes, sejam eles de caixa branca ou preta.
+
+ 
