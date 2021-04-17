@@ -1,5 +1,5 @@
-![Intelij IDEA](https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png)
+![Intellij IDEA](https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png)
 
 # Projetos_Aprendizagem
 
-Com estas ferramentas Intelij IDEA e Eclipe juntamente com o framework Junit tenho feito testes de carga, estresse e funcionais os quais ainda estou aprendendo, porém venho me dedicando cada vez mais para aprender.
+Com estas ferramentas IntelliJ IDEA, Eclipse, Junit e Jmeter tenho feito testes de carga, estresse e funcionais os quais ainda estou aprendendo, porém venho me dedicando cada vez mais para me aprofundar nos níveis de testes, sejam eles de caixa branca ou preta.
